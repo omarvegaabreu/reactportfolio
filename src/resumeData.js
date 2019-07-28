@@ -63,7 +63,7 @@ let resumeData = {
       specialization: "Sales Representative",
       MonthOfLeaving: "Jan",
       YearOfLeaving: "2014",
-      Achievements: "Some Achievements"
+      Achievements: " "
     }
   ],
   skillsDescription: " ",
