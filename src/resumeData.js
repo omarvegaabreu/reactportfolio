@@ -66,7 +66,7 @@ let resumeData = {
       Achievements: "Some Achievements"
     }
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: " ",
   skills: [
     {
       skillname: "HTML5"
