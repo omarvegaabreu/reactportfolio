@@ -24,7 +24,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I am a Full Stack Developer, I graduated from the University of Miami coding bootcamp. I believe that one needs to be obsessive with their dreams. I always had pasion for techonolgy, but life happens while we make plans. For the past 6 months I have been living my dream. There is still much to learn and I will continue to strive to be the best developer that I can be.",
+    "I am a Full Stack Developer, I graduated from the University of Miami coding bootcamp. I believe that one needs to be obsessive with their dreams. I've always had passion for techonolgy, but life happens while we make plans. For the past 6 months I have been living my dream. There is still much to learn and I will continue to strive to be the best developer that I can be.",
   address: "Miami,FL",
   website: "omarvega@hotmail.com",
   education: [
@@ -40,27 +40,27 @@ let resumeData = {
       specialization: "Associates in Science",
       MonthOfPassing: "Jan",
       YearOfPassing: "2018",
-      Achievements: "Received two year degree"
+      Achievements: " "
     },
     {
       UniversityName: "Pontificia Universidad Catolica Madre y Maestra",
       specialization: "Law",
       MonthOfPassing: "Jan",
       YearOfPassing: "2006",
-      Achievements: "12 credits are pending for law degree"
+      Achievements: " "
     }
   ],
   work: [
     {
       CompanyName: "Jackson Memorial Hospital",
-      specialization: "Insurance Specialist",
+      specialization: "Billing /Insurance Specialist",
       MonthOfLeaving: "June",
       YearOfLeaving: "2019",
       Achievements: " "
     },
     {
       CompanyName: "Taurus USA",
-      specialization: "Customer Service Representative",
+      specialization: "Sales Representative",
       MonthOfLeaving: "Jan",
       YearOfLeaving: "2014",
       Achievements: "Some Achievements"
@@ -155,7 +155,7 @@ let resumeData = {
   testimonials: [
     {
       description: "Omar is an awesome and dedicated person!",
-      name: "Gino Santorio CEO Broward Heath"
+      name: " Omar Vega"
     },
     {
       description: "Omar is dedicated!",
