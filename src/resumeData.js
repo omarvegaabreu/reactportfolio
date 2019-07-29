@@ -154,12 +154,22 @@ let resumeData = {
   ],
   testimonials: [
     {
-      description: "Omar is an awesome and dedicated person!",
-      name: " Omar Vega"
+      description: "First, solve the problem. Then, write the code",
+      name: " John Johnson"
     },
     {
-      description: "Omar is dedicated!",
-      name: "Some technical guy"
+      description: "The road to success is always under construction",
+      name: "Lily Tomlin"
+    },
+    {
+      description:
+        "You don't learn to walk by following rules. You learn by failing, falling getting up. Over and over again",
+      name: "Richard Branson"
+    },
+    {
+      description:
+        "A successfull man is one who can lay a firm foundation with the bricks life has thrown at him",
+      name: "David Brinkley"
     }
   ]
 };
