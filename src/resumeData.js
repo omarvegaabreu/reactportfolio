@@ -154,8 +154,8 @@ let resumeData = {
   ],
   testimonials: [
     {
-      description: `"First, solve the problem. Then, write the code"`,
-      name: " John Johnson"
+      description: `“if you can write "hello world" you can change the world”`,
+      name: "Raghu Venkatesh"
     },
     {
       description: `"The road to success is always under construction"`,
@@ -166,8 +166,20 @@ let resumeData = {
       name: "Richard Branson"
     },
     {
-      description: `"A successfull man is one who can lay a firm foundation, with the bricks life has thrown at him"`,
-      name: "David Brinkley"
+      description: `“Truth can only be found in one place: the code.” `,
+      name: "Robert C. Martin"
+    },
+    {
+      description: `“The most disastrous thing that you can ever learn is your first programming language.”  `,
+      name: "Alan Kay"
+    },
+    {
+      description: `“The most important property of a program is whether it accomplishes the intention of its user.”   `,
+      name: "C.A.R. Hoare"
+    },
+    {
+      description: `“i am committed to push my branch to the master”    `,
+      name: "Halgurd Hussein"
     }
   ]
 };
