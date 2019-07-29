@@ -154,7 +154,7 @@ let resumeData = {
   ],
   testimonials: [
     {
-      description: `“if you can write "hello world" you can change the world”`,
+      description: `“If you can write "hello world" you can change the world”`,
       name: "Raghu Venkatesh"
     },
     {
@@ -170,7 +170,7 @@ let resumeData = {
       name: "Robert C. Martin"
     },
     {
-      description: `“The most disastrous thing that you can ever learn is your first programming language.”  `,
+      description: `“The most promising thing that you can ever learn is your first programming language.”  `,
       name: "Alan Kay"
     },
     {
@@ -178,7 +178,7 @@ let resumeData = {
       name: "C.A.R. Hoare"
     },
     {
-      description: `“i am committed to push my branch to the master”    `,
+      description: `“I am committed to push my branch to the master”    `,
       name: "Halgurd Hussein"
     }
   ]
