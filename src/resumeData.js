@@ -154,21 +154,19 @@ let resumeData = {
   ],
   testimonials: [
     {
-      description: "First, solve the problem. Then, write the code",
+      description: `"First, solve the problem. Then, write the code"`,
       name: " John Johnson"
     },
     {
-      description: "The road to success is always under construction",
+      description: `"The road to success is always under construction"`,
       name: "Lily Tomlin"
     },
     {
-      description:
-        "You don't learn to walk by following rules. You learn by failing, falling getting up. Over and over again",
+      description: `"You don't learn to walk by following rules. You learn by failing, falling and getting up. Over and over again"`,
       name: "Richard Branson"
     },
     {
-      description:
-        "A successfull man is one who can lay a firm foundation with the bricks life has thrown at him",
+      description: `"A successfull man is one who can lay a firm foundation, with the bricks life has thrown at him"`,
       name: "David Brinkley"
     }
   ]
