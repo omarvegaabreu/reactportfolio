@@ -180,6 +180,10 @@ let resumeData = {
     {
       description: `“I am committed to push my branch to the master”    `,
       name: "Halgurd Hussein"
+    },
+    {
+      description: `“Failure is not an option, instead its an absolute necesity for growth.”    `,
+      name: "Charlie Caldwell"
     }
   ]
 };
